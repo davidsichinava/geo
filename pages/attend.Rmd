@@ -1,0 +1,8 @@
+---
+title: "დასწრება და შეფასება"
+output: html_document
+
+---
+
+
+სემინარზე დასწრების სტატისტიკა ნახეთ [ამ ბმულზე](https://docs.google.com/spreadsheets/d/1cEP1y1D03Z4RhOgbJTpwQVS76FlFVgdiCYiLd1l4k4I/edit?usp=sharing)

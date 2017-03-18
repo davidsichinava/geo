@@ -1,12 +1,12 @@
-name: "რმ-ანალიზი R-გარემოში"
+name: "საქართველოს საზოგადოებრივი გეოგრაფიის სემინარი"
 navbar:
   title: "ნავიგაცია"
   left:
      - text: "თავფურცელი"
        href: index.html
-     - text: "თემები"
-       href: pages/topic.html
-     - text: "ლიტერატურა"
-       href: pages/literature.html
+     - text: "სემინარის მასალები"
+       href: pages/seminar.html
+     - text: "დასწრება და შეფასება"
+       href: pages/attend.html
      - text: "პრეზენტაციები"
        href: pages/presentations.html
