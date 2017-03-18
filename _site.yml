@@ -1,0 +1,12 @@
+name: "რმ-ანალიზი R-გარემოში"
+navbar:
+  title: "ნავიგაცია"
+  left:
+     - text: "თავფურცელი"
+       href: index.html
+     - text: "თემები"
+       href: pages/topic.html
+     - text: "ლიტერატურა"
+       href: pages/literature.html
+     - text: "პრეზენტაციები"
+       href: pages/presentations.html

@@ -1,0 +1,279 @@
+---
+title: "თემები"
+author: "დავით სიჭინავა"
+output: html_document
+
+---
+
+### შეხვედრა 1: კვლევის მნიშვნელობა სოციალურ მეცნიერებებში
+
+#### ![](ico/teacher.png) ლექცია:
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 30-41
+* ზურაბიშვილი, გვ. 5-12
+* წულაძე, გვ. 4-11
+
+
+### შეხვედრა 2: თვისებრივი და რაოდენობრივი მეთოდები
+
+#### ![](ico/teacher.png) ლექცია:
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 393-427
+* ზურაბიშვილი, გვ. 5-12
+
+
+
+### შეხვედრა 3: ალბათური სიდიდეების განაწილება
+#### ![](ico/teacher.png) ლექცია:
+
+
+* ნორმალური განაწილება და მისი შეფასება
+* გეომეტრიული განაწილება
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* OpenIntro Statistics, თავი 3.
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+* არითმეტიკული ფუნქციები და ოპერატორები
+
+* მონაცემთა დამუშავება
+	+ ქვესიმრავლის ამორჩევა,
+	+ მონაცემთა ჩასმა
+
+![](ico/book.png) მესამე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/6Um8NNhABx1T7vuzQB3J)
+
+### შეხვედრა 4: ალბათური სიდიდეების განაწილება
+
+#### ![](ico/teacher.png) ლექცია:
+* ბინომური განაწილება
+* სხვა დისკრეტული განაწილებები
+	+ პუასონის განაწილება
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* OpenIntro Statistics, თავი 3
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+
+* შემთხვევით რიცხვთა გენერირების ალგორითმები
+* შერჩევა და განაწილებები
+* ჩაშენებული ციკლური ფუნქციები
+
+
+![](ico/book.png) მეოთხე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/3s8av5S5kZnZFmKtLQPi)
+
+### შეხვედრა 5: შესავალი სტატისტიკურ დასკვნაში
+
+#### ![](ico/teacher.png) ლექცია:
+
+* წერტილოვანი შეფასება
+* სანდოობის ინტერვალები
+	+ ცენტრალური ზღვარითი თეორია
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* OpenIntro Statistics, თავი 4.
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+* ჩაშენებული ფუნქციების მეშვეობით ცხრილების და დიაგრამების აგება
+
+
+![](ico/book.png) მეხუთე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/XxBhyqrzEUoI10xfNXAH)
+
+### შეხვედრა 6: შესავალი სტატისტიკურ დასკვნაში
+
+#### ![](ico/teacher.png) ლექცია:
+
+* ჰიპოთეზის შემოწმება
+	+ სანდოობის ინტერვალების მეთოდი
+	+ p-სიდიდე
+	+ ცალმხრივი და ორმხრივი ტესტები
+* სანდოობის ინტერვალები და ჰიპოთეზის შემოწმება ნორმალური წერტილოვანი შეფასებითვის
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* OpenIntro Statistics, თავი 4.
+
+#### ![](ico/flask-outline.png) ლაბორატორია: 
+
+
+![](ico/book.png) მეექვსე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/2PsxE63Q36wouTfCI3bW)
+
+### შეხვედრა 7: სტატისტიკური დასკვნა რაოდენობრივი ტიპის მონაცემებისთვის
+
+#### ![](ico/teacher.png) ლექცია:
+
+* ერთი შერჩევის საშუალო t-განაწილების მიხედვით
+* სტატისტიკური დასკვნა დაწყვილებულ მონაცემთათვის
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* OpenIntro Statistics, თავი 5.
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეშვიდე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/guDaCio2HsqJuTevKTqa)
+
+### შეხვედრა 8: სტატისტიკური დასკვნა რაოდენობრივი ტიპის მონაცემებისთვის
+
+#### ![](ico/teacher.png) ლექცია:
+
+* სხვაობა ორ საშუალოს შორის
+* საშუალოთა სხვაობის სტატისტიკური ტესტის სიმძლავრის შეფასება
+* დისპერსიის ანალიზი (ANOVA)
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* OpenIntro Statistics, თავი 5.
+
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მერვე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/bM1gjnUiyDFcezSPub5m)
+
+### შეხვედრა 9: სტატისტიკური დასკვნა კატეგორიული ტიპის მონაცემებისთვის
+
+#### ![](ico/teacher.png) ლექცია:
+
+* სტატისტიკური დასკვნა ერთი პროპორციისთვის
+* სხვაობა ორ პროპორციას შორის
+* თანხმობის ხი-კვადრატ კრიტერიუმი
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* OpenIntro Statistics, თავი 6.
+
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეცხრე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/WzHasIPYHBIdXmNQNwrC)
+
+### შეხვედრა 10: სტატისტიკური დასკვნა კატეგორიული ტიპის მონაცემებისთვის
+
+#### ![](ico/teacher.png) ლექცია:
+
+* დამოუკიდებლობის შემოწმება შეუღლებულ ცხრილებში
+* პროპორციის ჰიპოთეზის შემოწმება მცირე შერჩევისთვის
+* რანდომიზაციის ტესტი
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* OpenIntro Statistics, თავი 6.
+
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეათე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/Rkpdl4M56fH4TW6vxVWW)
+
+### შეხვედრა 11: კორელაცია და მონაცემთა შემცირების ტექნიკა
+
+#### ![](ico/teacher.png) ლექცია:
+
+* კორელაცია
+	+ პირსონის კოეფიციენტი
+	+ კორელაციის რანგული მაჩვენებლები
+* მონაცემთა შემცირების ტექნიკები
+	+ ფაქტორული ანალიზი
+	+ მთავარი კომპონენტების ანალიზი
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეთერთმეტე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/TXp797ivhVeephTmvSix)
+
+### შეხვედრა 12: შესავალი წრფივ რეგრესიაში
+
+#### ![](ico/teacher.png) ლექცია:
+
+* წრფის მორგება და ნაშთები
+* უმცირეს კვადრატთა მეთოდი
+* ექსტრემალური მონაცემები წრფივ რეგრესიაში
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* OpenIntro Statistics, თავი 7.
+
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეთორმეტე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/2gy3fbPfToLbCjeUaBrZ)
+
+### შეხვედრა 13: შესავალი წრფივ რეგრესიაში
+
+#### ![](ico/teacher.png) ლექცია:
+
+* სტატისტიკური დასკვნა წრფივი რეგრესიის მეშვეობით
+* წრფივი რეგრესიის დაშვებების შემოწმება
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* OpenIntro Statistics, თავი 7.
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეცამეტე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/quBm9LCvsYq35RJLc3Cj)
+
+### შეხვედრა 14: მრავალწევრი და ლოგისტიკური რეგრესია
+
+#### ![](ico/teacher.png) ლექცია:
+
+* შესავალი მრავლობით რეგრესიაში
+* სტატისტიკური მოდელის ამორჩევა
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* OpenIntro Statistics, თავი 8.
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეთოთხმეტე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/0aG3SFcd4hTUDIxxiX6z)
+
+### შეხვედრა 15: მრავალწევრი და ლოგისტიკური რეგრესია
+
+#### ![](ico/teacher.png) ლექცია:
+
+* შესავალი ლოგისტიკურ რეგრესიაში
+* ალბათობის მოდელირება
+* ლოგისტიკური რეგრესიის დაშვებების შემოწმება
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* OpenIntro Statistics, თავი 8.
+
+#### ![](ico/flask-outline.png) ლაბორატორია:
+
+![](ico/book.png) მეთხუთმეტე დავალება ატვირთეთ ამ [ბმულზე](https://www.dropbox.com/request/FJspNrTO4JtjyIufUikr)
+
+### ძირითადი და დამატებითი ლიტერატურა:
+
+Bray, A., Çetinkaya-Rundel, M., _OpenIntro_ _Labs_. Adapted from a lab written by Mark Hansen of UCLA Statistics. [ონლაინ-რესურსი](https://www.openintro.org/stat/labs.php)
+
+Dalgaard, P.: [Introductory Statistics with R](https://www.dropbox.com/s/tbq04frh15klu3s/Introductory%20Statistics%20With%20R%20-%20Peter%20Dalgaard.pdf?dl=0). Springer 2008
+
+Diez, D. M., Barr, C. D., & Çetinkaya-Rundel, M. (2015). [OpenIntro statistics](https://www.dropbox.com/s/454s4rzgaoshnxl/os3.pdf?dl=0). Third edition.
+
+Grolemund, G. & Wickham, H.: [R for Data Science](http://r4ds.had.co.nz/)
+
+Venables, W.N., Smith, D.M. & the R Core Team: [An Introduction to R](https://www.dropbox.com/s/dfe8zahsfvod94q/Intro-R.pdf?dl=0). Notes on R: A Programming Environment for Data Analysis and Graphics
+
+Verzani, J.: simpleR: [Using R for Introductory Statistics](https://www.dropbox.com/s/5a5tx3p3v8glwix/Verzani-SimpleR.pdf?dl=0)
+
+
+Icon source: http://www.flaticons.com
