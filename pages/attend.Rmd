@@ -1,8 +1,9 @@
 ---
-title: "დასწრება და შეფასება"
+title: "სილაბუსი, დასწრება და შეფასება"
 output: html_document
 
 ---
 
+კურსის სილაბუსი ნახეთ [ამ ბმულზე](https://www.dropbox.com/s/f3ha67hxqpncf50/Bokeria_Iashvili_Syllabus.pdf?dl=0)
 
 სემინარზე დასწრების სტატისტიკა ნახეთ [ამ ბმულზე](https://docs.google.com/spreadsheets/d/1cEP1y1D03Z4RhOgbJTpwQVS76FlFVgdiCYiLd1l4k4I/edit?usp=sharing)
