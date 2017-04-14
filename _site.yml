@@ -4,6 +4,8 @@ navbar:
   left:
      - text: "თავფურცელი"
        href: index.html
+     - text: "წიგნები"
+       href: pages/materials.html
      - text: "სემინარის მასალები"
        href: pages/seminar.html
      - text: "სილაბუსი, დასწრება და შეფასება"
