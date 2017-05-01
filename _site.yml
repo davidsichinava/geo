@@ -12,3 +12,5 @@ navbar:
        href: pages/attend.html
      - text: "პრეზენტაციები"
        href: pages/presentations.html
+     - text: "რეფერატი"
+       href: pages/essay.html
