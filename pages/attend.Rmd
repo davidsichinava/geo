@@ -9,7 +9,7 @@ output: html_document
 სემინარზე დასწრების სტატისტიკა ნახეთ [ამ ბმულზე](https://docs.google.com/spreadsheets/d/1cEP1y1D03Z4RhOgbJTpwQVS76FlFVgdiCYiLd1l4k4I/edit?usp=sharing)
 
 
-სემინრის ქულები ნახეთ [ამ ბმულზე](https://docs.google.com/spreadsheets/d/1DjWDOX5P5XqH-hspywCWhg2VtOtXZZ_TDYu95DS3vt4/edit?usp=sharing)
+სემინარის ქულები ნახეთ [ამ ბმულზე](https://docs.google.com/spreadsheets/d/1DjWDOX5P5XqH-hspywCWhg2VtOtXZZ_TDYu95DS3vt4/edit?usp=sharing)
 
 
 [ფეისბუქის ჯგუფის მისამართი](https://www.facebook.com/groups/254812004979755/?fref=ts)
